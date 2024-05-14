@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit_learn logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)" height="40" alt="scikit_learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydata/pydata-original-wordmark.svg" height="40" alt="pydata logo"  />
 </div>
