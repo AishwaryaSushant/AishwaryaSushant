@@ -81,10 +81,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit_learn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydata/pydata-original-wordmark.svg" height="40" alt="pydata logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/AishwaryaSushant/AishwaryaSushant/output/snake.svg" alt="Snake animation" />
-
