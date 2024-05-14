@@ -1,7 +1,7 @@
-<h1 align="center"> **👋 Hi there!, I'm Aishwarya Sushant**</h1>
-<h3 align="center"> **An AI/ML engineer passionate about NLP tasks and data analysis.** 🤖💼
-**
-🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.**
+<h1 align="center"> 👋 Hi there!, I'm Aishwarya Sushant</h1>
+<h3 align="center"> An AI/ML engineer passionate about NLP tasks and data analysis. 🤖💼
+
+🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.
 
 💻 I work with Python to build AI models, analyze data, and solve complex problems. 
 
