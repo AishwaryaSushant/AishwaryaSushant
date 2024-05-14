@@ -84,6 +84,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AishwaryaSushant/AishwaryaSushant/output/snake.svg" alt="Snake animation" />
-
-###
