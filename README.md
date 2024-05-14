@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.<br><br>💻 I work with Python to build AI models, analyze data, and solve complex problems.<br><br>📚 Currently diving deeper into NLP techniques and eager to collaborate on projects in this space.<br><br>🌱 I'm always learning and growing, and I'm excited about the possibilities AI brings to industries.<br><br>⚡ Fun fact: I'm also an avid hiker and have climbed several peaks in my spare time!<br><br>🌱 I’m currently learning Generative AI<br><br>🤝 Let's connect and innovate together!</p>
+<p align="left">🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.<br><br>💻 I work with Python to build AI models, analyze data, and solve complex problems.<br><br>📚 Currently diving deeper into NLP techniques and eager to collaborate on projects in this space.<br><br>🌱 I'm always learning and growing, and I'm excited about the possibilities AI brings to industries.<br><br>🌱 I’m currently learning Generative AI<br><br>🤝 Let's connect and innovate together!</p>
 
 ###
 
