@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there!, I'm Aishwarya Sushant</h1>
+<h1 align="center">👋 Hi there! I'm Aishwarya Sushant</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.<br><br>💻 I work with Python to build AI models, analyze data, and solve complex problems.<br><br>📚 Currently diving deeper into NLP techniques and eager to collaborate on projects in this space.<br><br>🌱 I'm always learning and growing, and I'm excited about the possibilities AI brings to industries.<br><br>⚡ Fun fact: I love to bake and experiment with new recipes in my free time!<br><br>🌱 I’m currently learning Generative AI<br><br>🤝 Let's connect and innovate together!</p>
+<p align="left">🧠 With a strong background in machine learning and deep learning, I love working on NLP projects and exploring the potential of generative AI, computer vision, and web scraping.<br><br>💻 I work with Python to build AI models, analyze data, and solve complex problems.<br><br>📚 Currently diving deeper into NLP techniques and eager to collaborate on projects in this space.<br><br>🌱 I'm always learning and growing, and I'm excited about the possibilities AI brings to industries.<br><br>⚡ Fun fact: I'm also an avid hiker and have climbed several peaks in my spare time!<br><br>🌱 I’m currently learning Generative AI<br><br>🤝 Let's connect and innovate together!</p>
 
 ###
 
@@ -79,9 +79,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg)" height="40" alt="scikit_learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit_learn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydata/pydata-original-wordmark.svg" height="40" alt="pydata logo"  />
 </div>
 
 ###
